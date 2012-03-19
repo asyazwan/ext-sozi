@@ -6,6 +6,9 @@ This is an extension to [SVG-Edit](http://code.google.com/p/svg-edit) with the p
 
 It also hope to be more friendly than the InkScape alternative.
 
+## Install
+Just put sozi folder inside `editor/extensions/` and you're all set! You might need to alter your `sanitize.js` if you plan on editing the source manually with the Edit Source tool. Check wiki page for more info, or use supplied `sanitize.js.example`.
+
 ## Demo
 http://asyazwan.github.com/ext-sozi/
 
